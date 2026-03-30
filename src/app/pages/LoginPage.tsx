@@ -109,7 +109,7 @@ export default function LoginPage() {
             className="text-5xl md:text-6xl font-black tracking-tight text-white mb-2"
             style={{ textShadow: "0 0 40px rgba(34,211,238,0.3)" }}
           >
-            NeuroQuiz
+            AnatoPlay
             <span
               className="ml-3"
               style={{
